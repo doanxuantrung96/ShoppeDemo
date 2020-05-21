@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86094986785",
+    "firebase_url": "https://shoppedemo-a1c27.firebaseio.com",
+    "project_id": "shoppedemo-a1c27",
+    "storage_bucket": "shoppedemo-a1c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86094986785:android:5750e4db8ba6e883606d60",
+        "android_client_info": {
+          "package_name": "com.example.shoppedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86094986785-5hu41pbs701nc6m065l5m61ga1vf57o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppedemo",
+            "certificate_hash": "d0493e2f45c8c020c6ec7c9aec8d7ff031367be5"
+          }
+        },
+        {
+          "client_id": "86094986785-lfs72nb5osudok2dkjrdivdtd6bunok0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwuwK5c2VmM9CYdotDQ_I11uNDWSW8fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86094986785-lfs72nb5osudok2dkjrdivdtd6bunok0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
